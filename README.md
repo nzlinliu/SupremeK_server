@@ -3,7 +3,7 @@
 ## git使用
 
 流程图
-
+今天练习GIT如何使用！谢谢光--李叶朝
 ```mermaid
 flowchart TD
     A([开始]) --> B[注册 GitHub 账号并建空仓库]
